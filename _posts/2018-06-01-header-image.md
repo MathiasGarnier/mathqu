@@ -1,12 +1,12 @@
 ---
 title: Post with Header Image
-tags: TeXt
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
 ---
 
-A Post with Header Image, See [Page layout](https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+$$ \exp(x) = \sum_{k = 0}^\infty \frac{x^k}{k!}$$
 
-<!--more-->
+$ \exp(x) = \sum_{k = 0}^\infty \frac{x^k}{k!}$
+
+$$ \displaystyle \exp(x) = \sum_{k = 0}^\infty \frac{x^k}{k!}$$
+
+$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$
+
